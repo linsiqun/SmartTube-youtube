@@ -40,10 +40,18 @@ youtube去广告
 开源
 
 <h3 id="downloader-codes"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">下载器代码</font></font></h3>
+<p style="text-indent:2em;">
+	<strong>Deploy the following command</strong> 
+</p>
 
-稳定版本：28544
-
-下载apk<a href="https://kutt.it/stn_stable"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">稳定版</font></font></a>
+<p style="text-indent:2em;">
+稳定版本：114586</p>
+<p style="text-indent:2em;">
+Beta 版本：124015</p>
+<p style="text-indent:2em;">
+<strong>下载</strong> <font></font><a href="https://kutt.it/stn_stable"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">稳定版apk</p>
+<p style="text-indent:2em;">
+<strong>下载</strong> <font></font><a href="https://kutt.it/stn_Beta"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Beta版本apk</p>
 
 <a href="https://smarttubeapp.github.io/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">官方网站</font></font></a>
 
