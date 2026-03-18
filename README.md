@@ -45,13 +45,13 @@ youtube去广告
 </p>
 
 <p style="text-indent:2em;">
-稳定版本：114586</p>
+稳定版本：28544</p>
 <p style="text-indent:2em;">
-Beta 版本：124015</p>
+Beta 版本：79015</p>
 <p style="text-indent:2em;">
-<strong>下载</strong> <font></font><a href="https://kutt.it/stn_stable"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">稳定版apk</p>
+<strong>下载</strong> <font></font><a href="https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">稳定版apk</p>
 <p style="text-indent:2em;">
-<strong>下载</strong> <font></font><a href="https://kutt.it/stn_Beta"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Beta版本apk</p>
+<strong>下载</strong> <font></font><a href="https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_beta.apk"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Beta版本apk</p>
 
 <a href="https://smarttubeapp.github.io/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">官方网站</font></font></a>
 
